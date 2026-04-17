@@ -2,6 +2,11 @@ return {
     owner = {
         
     },
+
+    bloxfruit_admin = {
+
+        
+    },
     
     premium_users = {
         
