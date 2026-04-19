@@ -10,7 +10,8 @@ return {
     
     premium_users = {
         7211114145,
-        10336013870
+        10336013870,
+        9488284508
     },
     
     blacklisted_users = {
